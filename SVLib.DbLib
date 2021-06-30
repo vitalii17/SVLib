@@ -1,0 +1,45 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Vitalii\Desktop\SVLib\SVLib.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabasePath=SVLib.accdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=Footprint;Symbol;Datasheet
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=SVLib
+[Table1]
+SchemaName=
+TableName=SVLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=841|Library Ref0=151|Footprint Path0=102|Footprint Ref0=202|ID0=34|Comment0=189|Library Path0=86|Category0=120|Part Number0=136|Manufacturer0=170|Component Value0=116|Package0=90|Mounting Type0=101|Tolerance0=72|Vmax0=50|Tmin0=47|Tmax0=48|Marking0=136|Vmin0=49|HelpURL0=1339|Creation Date0=94|Packaging0=76|Dielectric Type0=96|Imax0=46|Ftest0=49|Reverse Voltage0=105|Forward Current0=108|Status0=55
+[FieldMap1]
+Options=FieldName=SVLib.Description|TableNameOnly=SVLib|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=SVLib.Library Ref|TableNameOnly=SVLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=SVLib.Footprint Path|TableNameOnly=SVLib|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=SVLib.Footprint Ref|TableNameOnly=SVLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=SVLib.ID|TableNameOnly=SVLib|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=SVLib.Comment|TableNameOnly=SVLib|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=SVLib.Library Path|TableNameOnly=SVLib|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
